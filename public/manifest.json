@@ -2,7 +2,7 @@
   "name": "Toque de Doçura - Pedidos",
   "short_name": "Pedidos",
   "description": "App de anotação de pedidos com sincronização em tempo real",
-  "start_url": "/",
+  "start_url": "https://jls-x.github.io/Pedidosapp/",
   "display": "standalone",
   "background_color": "#1e40af",
   "theme_color": "#1e40af",
